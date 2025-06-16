@@ -1,0 +1,20 @@
+[project]
+name = "chatty"
+version = "0.1.0"
+description = "Interractive chatbot with context preservation."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "invoke>=2.2.0",
+    "langchain[google-genai]>=0.3.25",
+    "python-dotenv>=1.1.0",
+    "streamlit>=1.45.1",
+]
+
+[dependency-groups]
+dev = [
+    "black>=25.1.0",
+    "isort>=6.0.1",
+    "pyclean>=3.1.0",
+    "ruff>=0.11.13",
+]
