@@ -30,6 +30,10 @@ One of my Scottish cousin used to say chatty/chatterbox so while looking for a n
 
 4. Enter the API Key in the sidebar to start chatting.
 
+### Even Easier?
+
+1. Visit https://colab.research.google.com/github/kurtnettle/chatty/blob/main/app.ipynb
+2. Click `Runtime>Run All` or press `CTRL+F9`
 
 ## Screenshot 📷
 
@@ -57,6 +61,7 @@ One of my Scottish cousin used to say chatty/chatterbox so while looking for a n
 **TLDR:** This was just a task given by my faculty and I don't have any plans to continue the support or improvement of this app.
 
 This was a project given by my faculty when I asked him to consider the late submission of assignment. I am grateful he gave a project like this. I was unfamiliar with this tech and have never worked earlier (even i wasn't aware of the package name streamlit and langchain!). In the commitment of learning a new tech, I can proudly say I haven't took help of AI while doing this project.
+
 
 
 ## License 📜
